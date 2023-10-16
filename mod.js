@@ -1,5 +1,5 @@
 G.AddData({
-    name:'Head Hunter',
+    name:'head hunter',
     author:'Blackninja04010',
     desc:'Adds [head hunter] to the game.',
     engineVersion:1,
